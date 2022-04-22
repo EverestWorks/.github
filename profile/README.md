@@ -9,6 +9,8 @@ Our main products are:
 - Everest Write
 - Everest Cleaner
 - The Official Plugins Database
+
+
 If you have an issue or would like to join us, please contact the discord user given above in double quotes.
 
 Enjoy your day/night, and we hope you like what he have to offer!
