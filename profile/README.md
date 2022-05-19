@@ -1,3 +1,6 @@
+
+[![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg)](https://vshymanskyy.github.io/StandWithUkraine)
+
 ## Hi there 👋
 
 We are EverestWorks, an open-source based organization dedicated to making your life, and other lives easier. for contact, please contact "ᴚıɔʞ ∀sʇ1ǝʎ#5461" on discord.
@@ -7,7 +10,7 @@ If you want to message us by discord or email, please include your github profil
 Our main products are:
 - Everest Tools
 - Everest Write
-- Everest Cleaner
+- EverBrowse
 - The Official Plugins Database
 
 
