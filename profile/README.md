@@ -8,9 +8,9 @@ We created this organization for helping users acieve their goals, increase prod
 If you want to message us by discord or email, please include your github profile link, so we know that you are not spam, and include the reason why you contacted us in an organized way.
 
 Our Products:
-- Everest Tools
-- Everest Write
-- EverBrowse
+- EverTerm
+- EverNote
+- EverChecker
 - The Official Plugins Database
 
 
