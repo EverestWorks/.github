@@ -10,7 +10,7 @@ If you want to message us by discord or email, please include your github profil
 Our Products:
 - EverTerm
 - EverNote
-- MS-DOS Apps Decompiled
+- Useless App
 - EverTerm Plugins Database
 
 
