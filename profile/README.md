@@ -9,9 +9,9 @@ If you want to message us by discord or email, please include your github profil
 
 Our Products:
 - EverTerm
-- EverNote
+- App Manager (Releases June 26 2023!)
 - Useless App
-- EverTerm Plugins Database
+- EverTerm Official Mods Database
 
 
 If you have an issue or would like to join us, please contact the discord user given above in double quotes.
