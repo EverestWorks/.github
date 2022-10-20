@@ -16,6 +16,6 @@ Our Products:
 
 If you have an issue or would like to join us, please contact the discord user given above in double quotes.
 
-**OUR CODE FOLLOWS OUR MSCS, GOTO www.github.com/EverestWorks/MSCS**
+**OUR CODE FOLLOWS OUR MSCS, GOTO https://github.com/EverestWorks/MCSC**
 
 Enjoy your time, and we hope you like what he have to offer!
