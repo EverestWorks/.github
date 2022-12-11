@@ -9,7 +9,7 @@ If you want to message us by discord or email, please include your github profil
 
 Our Products:
 - EverTerm
-- App Manager (Releases June 26 2023!)
+- Quality Muncher GUI (Releases March 24 2023!)
 - Useless App
 - EverTerm Official Mods Database
 
