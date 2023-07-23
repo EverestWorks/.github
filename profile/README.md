@@ -3,7 +3,7 @@
 
 ## Hi there 👋
 
-We are EverestWorks, an open-source based organization dedicated to making your life, and other lives easier. for contact, please contact "Tech Support Guy#9659" on discord.
+We are EverestWorks, an open-source based organization dedicated to making your life, and other lives easier. for contact, please contact "crabtech" on discord.
 We started this for all of those beginners to start off.
 If you want to message us by discord or email, please include your github profile link, so we know that you are not spam, and include the reason why you contacted us in an organized way.
 
