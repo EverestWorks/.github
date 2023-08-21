@@ -9,7 +9,6 @@ Explore our Impressive Product Lineup:
 
 - EverTerm
 - EverNote
-- Useless App (Yes, it's intentional!)
 - EverTerm Official Mods Database
   
 For support inquiries or membership applications, please direct your queries to the Discord username provided in double-quotes.
