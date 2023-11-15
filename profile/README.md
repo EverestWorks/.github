@@ -8,7 +8,7 @@ To get in touch with us via Discord or email, kindly include your GitHub profile
 Explore our Product Lineup:
 
 - EverTerm
-- EverNote
+- vTerm
 - EverTerm Official Mods Database
   
 For support inquiries or membership applications, please direct your queries to the Discord username provided in double quotes.
