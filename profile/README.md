@@ -1,5 +1,5 @@
 ## Welcome to EverestWorks: Streamlining Your Workflows
-At EverestWorks, our sole mission is to simplify and optimize your workflows. For any inquiries or collaboration opportunities, we encourage you to reach out to "[this server](https://discord.gg/J2AfDXZKyr)" on Discord.
+At EverestWorks, our sole mission is to simplify and optimize your workflows. For any inquiries or collaboration opportunities, we encourage you to reach out to [this server](https://discord.gg/J2AfDXZKyr) on Discord.
 
 We established this organization with a primary focus on catering to users who handle substantial workloads, ensuring they experience enhanced efficiency and productivity.
 
