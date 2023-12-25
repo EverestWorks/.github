@@ -13,6 +13,6 @@ Explore our Product Lineup:
   
 For support inquiries or membership applications, please direct your queries to the Discord username provided in double quotes.
 
-**Embracing Excellence in Code:** Check out our MSCS at https://github.com/EverestWorks/MCSC
+**Embracing Excellence in Code:** Check out our [MSCS](https://github.com/EverestWorks/MCSC)
 
 Thank you for considering EverestWorks. We sincerely hope you find our offerings enriching and tailored to suit your needs. Your satisfaction is our priority!
