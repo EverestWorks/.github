@@ -11,7 +11,7 @@ Explore our Product Lineup:
 - vTerm
 - EverTerm Official Mods Database
   
-For support inquiries or membership applications, please direct your queries to the Discord username provided in double quotes.
+For support inquiries or membership applications, please direct your queries to the Discord server provided above.
 
 **Embracing Excellence in Code:** Check out our [MSCS](https://github.com/EverestWorks/MCSC)
 
