@@ -11,7 +11,7 @@ Explore our Product Lineup:
 
 - EverTerm
 - vTerm
-- EverTerm Official Mods Database
+- EverTerm & vTerm Official Mods Database
   
 Please direct your queries to the Discord server provided above for support inquiries or membership applications.
 
